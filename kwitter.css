@@ -1,0 +1,19 @@
+
+#login_button{
+    width: 250px;
+    height: 50px;
+}
+#user_name{
+    width: 40%;
+    
+}
+.body_background 
+{
+    color:black;
+    padding-top: 10%;
+    background-position: center;
+    background-size: contain;
+	background:url(fw-bg-gradient.png);
+   
+    
+}
